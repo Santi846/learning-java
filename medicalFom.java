@@ -18,6 +18,7 @@ public class medicalFom {
 
         boolean requierePrescripcion = false;
 
+        //concatenacion
         System.out.println("Datos de contacto del paciente: " + " "+ tipoAtencion + " " + numeroTelefono + " vía: "  + fax + " " + correo_electronico + "\n");
         System.out.println("Datos del registro: " + usuarioRegistrador + " " + telefonoRegistrador + " " + fechaRegistro + "\n");
         System.out.println("Data paciente: " + genero[1] + " " + requierePrescripcion);
