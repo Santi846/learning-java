@@ -1,7 +1,7 @@
 
 public class Arrays {
     public static void main(String... args) {
-    //define ONEDIMENSIONAL array, and it's size
+    //define vector, ONEDIMENSIONAL array, and it's size
        int numeros [] = new int[8];
 
     //assign values to each position of the array
