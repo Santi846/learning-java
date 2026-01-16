@@ -23,6 +23,6 @@ public class conditionals {
             }
         }
 
-        System.out.println("LLegué al final"); 
+        System.out.println("Cierre del programa."); 
     }
 }
